@@ -1,1 +1,1 @@
-# Hotel-Website
+# HotelWebsite
